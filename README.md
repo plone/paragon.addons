@@ -1,3 +1,7 @@
+This repository is archived and read only.
+
+If you want to unarchive it, then post to the [Admin & Infrastructure (AI) Team category on the Plone Community Forum](https://community.plone.org/c/aiteam/55).
+
 # paragon.addons
 
 This is an experimental way for the Plone community to update the list of recommended add-ons at https://plone.org/download/add-ons/popular-add-ons
